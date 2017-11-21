@@ -17,5 +17,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/I327500/workspace_SCP/pi4j-demo/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I327500/workspace_SCP/pi4j-demo/lib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I327500/workspace_SCP/pi4j-demo/lib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I327500/workspace_SCP/pi4j-demo/lib/pi4j-service.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
